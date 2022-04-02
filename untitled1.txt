@@ -1,0 +1,4 @@
+1 Place-A 300 4 3
+2 Place-B 500 2 8
+3 Place-C 200 7 0
+4 Place-D 40 1 5

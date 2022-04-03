@@ -1,0 +1,4 @@
+1 Place-A 100 4 3 Beans:200
+2 Place-B 200 2 8 Maize:100,Rice:200
+3 Place-C 0 7 0 Maize:200
+4 Place-D 50 1 5 Beans:100,Rice:100,Maize:100
